@@ -39,6 +39,14 @@ a:focus{
   color: #669999;
 }
 
+section{
+  width: 30%;
+  display: inline-block;
+  float: center;
+  margin-right: 2%;
+
+}
+
 h2{
   background: #ffb975;
   color: #000000;
@@ -46,9 +54,10 @@ h2{
   height: 30px;
 }
 
-section{
-  width: 100%;
-  display: inline-block;
-  float: center;
-  margin-right: 2%;
+h3{
+  background: #669999;
+  padding: 30px;
+  margin: 1%;
+  height: 30px;
+  text-align: center;
 }
